@@ -31,3 +31,5 @@ xcuserdata/
 *.p12
 *.cer
 *.certSigningRequest
+.vercel
+.env*
