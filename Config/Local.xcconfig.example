@@ -1,9 +1,0 @@
-// Copy this file to Local.xcconfig (same folder), then edit.
-// Local.xcconfig is gitignored, so your personal values never get committed.
-
-// Must be globally unique for Apple to sign it. Example: com.janedoe.roll
-ROLL_BUNDLE_ID = com.yourname.roll
-
-// Optional. Your 10 character Team ID. If you leave this empty, choose your
-// team once in Xcode: Roll target, Signing & Capabilities, Team.
-DEVELOPMENT_TEAM =
