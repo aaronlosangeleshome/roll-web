@@ -1,0 +1,57 @@
+{
+  "identifier" : "A7C1E2D4",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "6740000001",
+      "localizations" : [
+        {
+          "description" : "Pay once. Every frame, filter and sticker, plus all future updates.",
+          "displayName" : "Roll Lifetime",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.yourname.roll.lifetime",
+      "referenceName" : "Roll Lifetime",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "21500001",
+      "localizations" : [],
+      "name" : "Roll Plus",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6740000002",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited pics, every frame, filter and sticker. Renews monthly.",
+              "displayName" : "Roll Plus Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.yourname.roll.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Roll Plus Monthly",
+          "subscriptionGroupID" : "21500001",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : []
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}
